@@ -4,11 +4,11 @@ Write a program that prompts the user for an integer and prints the string "Orwe
 
 ```plaintext
 Give a number:
-1983
+*1983*
 ```
 
 ```plaintext
 Give a number:
-1984
+*1984*
 Orwell
 ```
