@@ -1,14 +1,14 @@
-# Exercise 1.20 - Speeding ticket
+# Exercise 1.21 - Orwell
 
-Write a program that asks the user for an integer and prints the string "Speeding ticket!" if the input is greater than 70.
+Write a program that prompts the user for an integer and prints the string "Orwell" if the number is exactly 1984.
 
 ```plaintext
-Give speed:
-*15*
+Give a number:
+1983
 ```
 
 ```plaintext
-Give speed:
-*135*
-Speeding ticket!
+Give a number:
+1984
+Orwell
 ```
